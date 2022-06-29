@@ -7,7 +7,7 @@ Simple two player dice game. Once the user opens the website it will ask for pla
 *Refresh to restart the game.*
 
 ![image](https://user-images.githubusercontent.com/80753977/176445403-9859f787-9cc5-4712-b3b5-054dbab217f6.png)
-![image](https://user-images.githubusercontent.com/80753977/176445582-9c8f8163-1238-4e25-bc87-3567d2f0b5d2.png)
+![image](https://user-images.githubusercontent.com/80753977/176445746-dc56996f-dac1-480e-8a3d-816527710ed2.png)
 ![image](https://user-images.githubusercontent.com/80753977/176445608-5058bdc5-8d68-4539-ae39-ee014d5f39a2.png)
 
 ## Built With
